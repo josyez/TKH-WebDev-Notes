@@ -1,11 +1,11 @@
 # Week [week#]
-## [9]/[19] - [month]/[day]
+## [9]/[19] - [9]/[21]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [9]/[19]
 
 #### 🗒️Notes from class:
 
