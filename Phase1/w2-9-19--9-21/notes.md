@@ -1,4 +1,4 @@
-# Week [week#]
+# Week [week#2]
 ## [9]/[19] - [9]/[21]
 
 # Topic:
@@ -8,8 +8,8 @@ ___
 ### Day 1, [9]/[19]
 
 #### 🗒️Notes from class:
-need to be in the same directiry for it to work.
-low and capotal letters matter, make ure they match.
+need to be in the same directory for it to work.
+low and capital letters matter, make sure they match.
 you need to be on main to push??
 #### 📚Resources:
 
@@ -36,7 +36,7 @@ ___
 #### 🗒️Notes from class:
 submit HW before midnight.
 git on my end, my computer. github host all my work.
-git add, commit, push- if you made changes
+git add . , git commit, git push, - if you made changes
 
 #### 📚Resources:
 https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
@@ -44,16 +44,16 @@ https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. version control system
-2. diference between git and github
-3. 
+1. Version control system
+2. Difference between git and github.
+3. How to rename repo on host and local.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to control/edit between git and github.
+2. How to properly organize/manage files.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. When to use git init
 
 ___
 
