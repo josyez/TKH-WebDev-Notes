@@ -57,7 +57,7 @@ https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [9]/[21]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
