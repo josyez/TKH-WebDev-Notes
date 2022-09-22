@@ -59,22 +59,24 @@ ___
 
 ### Day 3, [9]/[21]
 #### 🗒️Notes from class:
+We can be excuse from class if we attend Meta event.
+master was default name. now is main.
+look up nested for loop for chessboard assig.
 
 #### 📚Resources:
 
 
 #### 💭Daily Reflection:
-
+Day 3. 9/21
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. how to branch using vscode
+2. pull request from github
+3. merge branches changes
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. basic trouble shooting commands
+2. nested looping
 
 ✋One thing I'm having trouble understanding:
-1. 
- 
+1. looping
 
