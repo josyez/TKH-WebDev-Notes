@@ -65,23 +65,25 @@ align is column
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [9]/[28]
 #### 🗒️Notes from class:
-
+-Put in notes when writting code. Spcially if you working in a team. 
+-To target something specifically use id. you can only have one id in element.
+-
 #### 📚Resources:
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. flexbox
+2. custom font with css
+3. how to properly link images in html
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to come up with a simple but elegant layout.
+2. how to start html from scratch
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. When is the right time to use. nav, div, id, etc.
  
 
