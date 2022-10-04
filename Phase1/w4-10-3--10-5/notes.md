@@ -1,13 +1,14 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week#4]
+## [10]/[03] - [10]/[06]
 
 # Topic:
-
+JavaScrip
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[03]
 
 #### 🗒️Notes from class:
+use let, instead of var.
 
 #### 📚Resources:
 
@@ -15,16 +16,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. intro to java
+2. console.log, let. const
+3. boolen
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. JS commands
+2. how to properly do strings 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. boolen
 
 
 ___
