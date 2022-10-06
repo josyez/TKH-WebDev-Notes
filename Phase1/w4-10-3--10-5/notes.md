@@ -49,7 +49,7 @@ ___
 2. Math statements
 
 ✋One thing I'm having trouble understanding:
-1. JS in general
+1. JS in general.
 
 ___
 
@@ -62,15 +62,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Make sure i have the linked the right path on html
+2. some math on JS
+3. how to use .getelementbyid
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Just JS in general
+2. nesting
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. A bit of everything
  
 
