@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week#6]
+## [10]/[17] - [10]/[19]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[17]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. review on DOM
+2. arrays and objects
+3. dot and brackets notations
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Nesting
+2. Arrays
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. DOM and loop
 
 
 ___
