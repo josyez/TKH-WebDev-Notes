@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [10]/18] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Objects in JS
+2. classes
+3. dot notation
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. nesting
+2. how to properly use classes
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Proper names for variables and such
 
 ___
 
