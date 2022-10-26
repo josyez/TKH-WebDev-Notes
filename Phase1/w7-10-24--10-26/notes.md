@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [10]/[25] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. never use var
+2. always end code with (;)
+3. refactor
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. When to call the right function 
+2. DOM
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. All different ways you can write the same code.
 
 ___
 
