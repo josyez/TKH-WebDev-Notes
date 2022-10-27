@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [10]/[26]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. rock, paper, scissor game
+2. Google fu
 3. 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to start the game    
+2. Pseudo coding
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Different game functions
  
 
