@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week#8]
+## [10]/[31] - [11]/[02]
 
-# Topic:
+# Topic: Review session
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[31]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Array
+2. Switch
+3. DOM
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. DOM
+2. When to use break or return
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. When to properly use each function/code
 
 
 ___
