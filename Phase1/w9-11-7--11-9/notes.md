@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [11]/[09]
 #### 🗒️Notes from class: 
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. modules
+2. how to fetch api data
+3. require
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. json
+2. api's
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How to use json
  
 
