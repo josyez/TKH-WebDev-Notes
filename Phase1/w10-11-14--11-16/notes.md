@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week#10]
+## [11]/[14] - [10]/[16]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[14]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. API
+2. async
+3. await, try
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. All of the above
+
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How to try it on my own. How to remember er all the steps
 
 
 ___
