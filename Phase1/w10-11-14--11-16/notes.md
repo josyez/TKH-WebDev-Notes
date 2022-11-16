@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [11]/[16] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to use APIs
+2. Import from axios
+3. Different APIs
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to use APIs keys
+2. How to make something interesting to using APIs
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. none at the moment
 
 ___
 
