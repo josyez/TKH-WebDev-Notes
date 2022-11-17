@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [10]/[16]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. how to create a vite project by myself
+2. How to use API key
+3. How to make API key private
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to extract the data
+2. How to make the project look nice. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Nothing at the moment 
  
 
