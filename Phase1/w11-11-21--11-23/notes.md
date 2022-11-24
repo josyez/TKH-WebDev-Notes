@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [11]/[23]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. how to center class on css
+2. how can APIs be used 
+3. How to change background image.
 
 👁️Two things I would like to know more about:
-1. 
+1. How to fully use css
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. n/a
  
 
