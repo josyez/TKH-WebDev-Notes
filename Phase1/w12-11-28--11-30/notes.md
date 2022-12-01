@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [11]/[29] 
 
 #### 🗒️Notes from class:
 
@@ -39,20 +39,20 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. react
+2. components
+3. props
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. components
+2. props
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. react 
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [12]/[30]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. component/ props
+2. conditionals
+3. some new css
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. react
+2. conditional components
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. building a project from scratch
  
 
