@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, []/[] 
+### Day 2, [12]/[13] 
 
 #### 🗒️Notes from class:
 
@@ -39,13 +39,13 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. memoization
+2. hook forms, useCallback
+3. how to install react-hook
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. memoization
+2. when will need to use hooks
 
 ✋One thing I'm having trouble understanding:
 1. 
