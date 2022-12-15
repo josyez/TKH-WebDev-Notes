@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, []/[]
+### Day 3, [12]/[14]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. react router
+2. hooks
+3. making paths
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. react 
+2. loader 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How im i going to remember to use correctly all this code
  
 
